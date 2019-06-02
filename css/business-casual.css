@@ -24,6 +24,8 @@ h6 {
 
 p {
   line-height: 1.75;
+  text-align: justify;
+  text-justify:inter-ideograph;
 }
 
 .text-faded {
