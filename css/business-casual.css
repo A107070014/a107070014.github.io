@@ -258,6 +258,7 @@ th, td {
 .btn-primary {
   background-color: #e6a756;
   border-color: #e6a756;
+  font-size:15rem;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
