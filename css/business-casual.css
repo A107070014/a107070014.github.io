@@ -35,11 +35,14 @@ th, td {
   padding: 8px;
 }
 
-tr:nth-child(even){background-color: #f2f2f2}
+tr:nth-child(even){
+	background-color: rgba(230,167,86,.9)
+}
 
 th {
   background-color: #4CAF50;
   color: white;
+}
 
 .text-faded {
   color: rgba(255, 255, 255, 0.3);
