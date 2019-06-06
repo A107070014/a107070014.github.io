@@ -24,17 +24,12 @@ h6 {
 
 p {
   line-height: 1.75; 
+  text-align: justify;
 }
 
 
 
-.about{
-  text-align: justify;	
-}
 
-.mb-0{
-  text-align: justify;		
-}
 
 table {
   border-collapse: collapse;
@@ -63,12 +58,9 @@ th, td {
 
 .text-faded {
   color: rgba(255, 255, 255, 0.3);
-  text-align: center !important;
 }
 
-.gotop{
-  color:#fff;	
-}
+
 
 .site-heading {
   margin-top: 5rem;
