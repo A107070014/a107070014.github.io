@@ -22,10 +22,8 @@ h6 {
   font-family: 'Noto Sans TC', sans-serif;
 }
 
-p {
-  font-family: 'Noto Sans TC', sans-serif;
-  line-height: 1.75;
-  text-align: center;
+p { 
+  line-height: 1.75; 
 }
 
 .about{
