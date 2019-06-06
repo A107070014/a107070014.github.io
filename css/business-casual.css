@@ -46,7 +46,7 @@ th, td {
 }
 
 /* Make the image fully responsive */
-.carousel-inner img {
+.carousel-inner {
   width: 100%;
   height: 100%;
 }
