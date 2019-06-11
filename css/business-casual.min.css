@@ -16,3 +16,10 @@
     line-height: 3.5rem;
     margin-right: 1rem;
 }
+.gotop a:last-child {
+  margin-right: 0;
+}
+
+.gotop a:hover {
+  background-color: #aceb00;
+}
