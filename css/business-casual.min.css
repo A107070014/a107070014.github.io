@@ -20,8 +20,8 @@
 .caffee{
   color:#e6a756!important; 
 }
-.coffee a:hover{
-  color:#f57200;
+.coffee a:visited{
+  color:#f57200!important;
 }
 
 
