@@ -57,7 +57,10 @@ th, td {
 	float:right
 }
 
-
+.row {
+    margin-right: 0px!important;
+    margin-left: 0px!important;
+}
 
 
 /* Make the image fully responsive */
