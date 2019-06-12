@@ -123,7 +123,6 @@ th, td {
 
 .bg-faded {
   background-color: rgba(255, 255, 255, 0.85);
-  width:1100px;
 }
 
 #mainNav {
@@ -222,7 +221,6 @@ th, td {
     margin-top: -5rem;
     position: relative;
     z-index: 1;
-	width:1100px;
   }
 }
 
