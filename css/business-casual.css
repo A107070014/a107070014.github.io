@@ -221,6 +221,7 @@ th, td {
     margin-top: -5rem;
     position: relative;
     z-index: 1;
+	width:1100;
   }
 }
 
