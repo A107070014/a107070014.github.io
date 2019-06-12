@@ -61,6 +61,10 @@ th, td {
   color:#e6a756!important; 
 }
 
+.coffee a:hover{
+  color:#f57200;
+}
+
 
 /* Make the image fully responsive */
 .carousel-inner img {
